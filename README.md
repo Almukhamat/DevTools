@@ -1,5 +1,5 @@
 # DevTools
-[[Выполнение](https://drive.google.com/file/d/1KKtgr14UcvjPXJmcpQpRwWnJ1uyXHMJK/view?usp=sharing)]
+[![Watch the video](https://drive.google.com/file/d/1KKtgr14UcvjPXJmcpQpRwWnJ1uyXHMJK/view?usp=sharing)]
 
  1. Открыть Chrome DevTools
  2. Зайти в панель Elements.
